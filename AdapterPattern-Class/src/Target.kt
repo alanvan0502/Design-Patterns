@@ -1,0 +1,3 @@
+interface Target {
+    fun request()
+}
