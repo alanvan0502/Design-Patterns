@@ -13,5 +13,4 @@ class CoffeeMachineAdapter: CoffeeMachineInterface {
     override fun chooseSecondSelection() {
         oldCoffeeMachine.selectB()
     }
-
 }
